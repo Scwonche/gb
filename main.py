@@ -1,6 +1,6 @@
 from pydnevnikruapi.dnevnik import dnevnik
 
-login = "daniiarmendygaliev"
+login = ""
 password = ""
 
 dn = dnevnik.DiaryAPI(login=login, password=password)
