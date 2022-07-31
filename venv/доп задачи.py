@@ -37,6 +37,7 @@ else:
 print(*a)
 
 
+
 #4
 from random import randint
 
