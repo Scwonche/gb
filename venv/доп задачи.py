@@ -36,8 +36,6 @@ else:
     print(sum(a[p:k]))
 print(*a)
 
-
-
 #4
 from random import randint
 
