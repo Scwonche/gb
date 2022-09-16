@@ -7,3 +7,4 @@ for i in range(n):
 for elem in a:
     if len(elem)<4:
         b.append(elem)
+print(*b)
